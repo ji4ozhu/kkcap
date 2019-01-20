@@ -17,4 +17,3 @@ http://www.kkcap.net
 
 ![jpg](https://www.kkcap.net/image/cnbanner.png)
 
-![gif](https://www.kkcap.net/en/demo.gif)
