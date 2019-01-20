@@ -15,4 +15,7 @@ VPN的轻量级替代品,可以仅代理选定的应用进程。
 
 http://www.kkcap.net
 
+![jpg](https://www.kkcap.net/image/cnbanner.png)
+
+https://www.kkcap.net/image/cnbanner.png
 ![gif](https://www.kkcap.net/en/demo.gif)
