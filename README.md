@@ -14,3 +14,5 @@ VPN的轻量级替代品,可以仅代理选定的应用进程。
 比Proxifier,SSTap类软件更简单
 
 http://www.kkcap.net
+
+![gif](https://www.kkcap.net/en/demo.gif)
