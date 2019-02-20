@@ -1,3 +1,7 @@
+Download link move to :
+https://www.kkcap.net
+
+
 # kkcap
 The Most Advanced Proxy Client,support to SOCKS5, Shadowsocks  
 
