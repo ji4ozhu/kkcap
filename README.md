@@ -1,5 +1,6 @@
 Download link move to :
-https://www.kkcap.net
+pc webbrowser https://www.kkcap.net
+
 
 
 # kkcap
