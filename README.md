@@ -22,4 +22,4 @@ http://www.kkcap.net
 
 ![jpg](https://raw.githubusercontent.com/ji4ozhu/imagefiles/master/cn.gif)
 
-![jpg](https://github.com/ji4ozhu/imagefiles/blob/master/en.gif)
+![jpg](https://raw.githubusercontent.com/ji4ozhu/imagefiles/master/en.gif)
