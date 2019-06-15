@@ -23,3 +23,7 @@ http://www.kkcap.net
 ![jpg](https://raw.githubusercontent.com/ji4ozhu/imagefiles/master/cn.PNG)
 
 ![jpg](https://raw.githubusercontent.com/ji4ozhu/imagefiles/master/en.PNG)
+
+![jpg](https://raw.githubusercontent.com/ji4ozhu/imagefiles/master/ProxyList.PNG)
+![jpg](https://raw.githubusercontent.com/ji4ozhu/imagefiles/master/guize.PNG)
+![jpg](https://raw.githubusercontent.com/ji4ozhu/imagefiles/master/xuanze.PNG)
