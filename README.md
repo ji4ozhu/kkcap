@@ -20,6 +20,10 @@ VPN的轻量级替代品,可以仅代理选定的应用进程。
 
 http://www.kkcap.net
 
+卸载/Uninstall:
+1. 重启系统  Reboot System
+2. 删除安装文件夹 Delete folder  C:\Program Files (x86)\KKCap
+
 ![jpg](https://raw.githubusercontent.com/ji4ozhu/imagefiles/master/cn.gif)
 
 ![jpg](https://raw.githubusercontent.com/ji4ozhu/imagefiles/master/en.gif)
