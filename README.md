@@ -1,6 +1,5 @@
-Download link move to :
-pc webbrowser https://www.kkcap.net
-
+Download link :
+https://github.com/ji4ozhu/kkcap/raw/master/KKCap_Setup.zip
 
 
 # kkcap
@@ -18,7 +17,6 @@ Proxifier,SSTap等软件的免费代替品
 VPN的轻量级替代品,可以仅代理选定的应用进程。  
 比Proxifier,SSTap类软件更简单  
 
-http://www.kkcap.net
 
 卸载/Uninstall:
 1. 重启系统  Restart System
