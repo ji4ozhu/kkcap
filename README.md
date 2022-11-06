@@ -1,13 +1,13 @@
 Download link :
 
-https://github.com/ji4ozhu/kkcap/raw/master/KKCap_Setup.zip
+https://github.com/ji4ozhu/kkcap/raw/master/KKCap_Setup_20221106.zip
 
 
 # kkcap
 The Most Advanced Proxy Client,support to SOCKS5, Shadowsocks  
 
 A free alternative to proxy software like Proxifier or SSTap.  
-Also a light-weight alternative to VPN.  
+
 Supports from Windows XP to Windows 10.  
 Redirect connections from of any internet app.  
 
