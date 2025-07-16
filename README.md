@@ -1,6 +1,6 @@
 ## Download link :
 
-[(https://github.com/ji4ozhu/kkcap/releases)](https://github.com/ji4ozhu/kkcap/releases)
+[https://github.com/ji4ozhu/kkcap/releases](https://github.com/ji4ozhu/kkcap/releases)
 
 
 # Pro5
